@@ -1,14 +1,17 @@
 
 # Make Your Coding beautiful
 
+## Screenshots 1
 
+![App Screenshot](https://github.com/saefulbarkah/my-vscode-settings/blob/master/Screenshots/example1.png?raw=true)
+## Screenshots 2
+![App Screenshot](https://github.com/saefulbarkah/my-vscode-settings/blob/master/Screenshots/example1.png?raw=true)
 
 
 ## Features
 
 - Make over look awesome
 - Auto formatting
-
 
 ## Requirement
 
@@ -23,3 +26,5 @@
  - [Laravel Blade Wrapper](https://marketplace.visualstudio.com/items?itemName=IHunte.laravel-blade-wrapper)
  - [JQuery Code Snippet](https://marketplace.visualstudio.com/items?itemName=donjayamanne.jquerysnippets)
  - [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+
+
