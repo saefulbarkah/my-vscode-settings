@@ -13,6 +13,7 @@
 ## Requirement
 
  - [Visual Studio Code](https://code.visualstudio.com/download)
+  - [Font Ligaturizer](https://github.com/lemeb/a-better-ligaturizer)
  - [Laravel Extension Pack](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-extension-pack)
  - [PHP Namespaces Resolver](https://marketplace.visualstudio.com/items?itemName=MehediDracula.php-namespace-resolver)
  - [Mayukai Theme](https://marketplace.visualstudio.com/items?itemName=GulajavaMinistudio.mayukaithemevsc)
