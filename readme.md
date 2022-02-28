@@ -5,7 +5,7 @@
 
 ![App Screenshot](https://github.com/saefulbarkah/my-vscode-settings/blob/master/Screenshots/example1.png?raw=true)
 ## Screenshots 2
-![App Screenshot](https://github.com/saefulbarkah/my-vscode-settings/blob/master/Screenshots/example1.png?raw=true)
+![App Screenshot](https://github.com/saefulbarkah/my-vscode-settings/blob/master/Screenshots/example2.png?raw=true)
 
 
 ## Features
